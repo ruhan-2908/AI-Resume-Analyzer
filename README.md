@@ -93,7 +93,7 @@ A second AI agent:
 
 ---
 
-## ▶How to Use
+## How to Use
 1. Import the workflow JSON into n8n
 2. Configure required API credentials (AI provider)
 3. Run the workflow
